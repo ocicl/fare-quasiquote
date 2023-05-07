@@ -1,0 +1,10 @@
+* fare-quasiquote
+
+The main purpose of this n+2nd reimplementation of quasiquote, is
+enable matching of quasiquoted patterns, using trivia.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/fare/fare-quasiquote.git |
+| commit  | ccb0285                                         |
+| systems | fare-quasiquote fare-quasiquote-extras          |
+|---------+-------------------------------------------------|
